@@ -22,32 +22,11 @@ Namespaces are one honking great idea -- let's do more of those!
 
 2. import antigravity - Histiry of Python https://xkcd.com/353/
 
-3. import __hello__ - Hello world!
+3. import __hello__ - Hello world! только напрямую будет выполняться эта часть кода
 
 4.  from __future__ import braces -  File "<ipython-input-4-6d5c5b2f0daf>", line 1
     from __future__ import braces
     ^
 SyntaxError: not a chance
 
-5................:
 
-6.
-q=int(input())
-w=int(input())
-print(q,w)
-
-q=int(input())
-w=int(input())
-print(q+w)
-
-q=int(input())
-w=int(input())
-print(q//w)
-
-q=int(input())
-w=int(input())
-print(q%w)
-
-q=int(input())
-w=int(input())
-print(q**w)
